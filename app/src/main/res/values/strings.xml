@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidTranslate</string>
+    <string name="enter_text_here">Enter text here..</string>
+    <string name="enter_from_language_code">Enter from language code</string>
+    <string name="enter_to_language_code">Enter to language code</string>
+    <string name="translated_text">Translated Text:</string>
+    <string name="translate">Translate</string>
+</resources>
